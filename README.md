@@ -9,15 +9,22 @@ it offers an easy-to-use interface to facilitate sales, purchases, and product m
 
 # 🚀 Key Features
 ✅ Product Management: Add, Edit, Delete, and View Products
+
 ✅ Invoicing System: Create Invoices and Print Receipts
+
 ✅ Account Management: Record Sales and Manage Revenue
+
 ✅ Local Database: Store Data Using SQLite
+
 ✅ Interactive Graphical Interface: Use Tkinter
 
 # 🛠 Technologies used
 Programming Language: Python
+
 User Interface: Tkinter
+
 Database: SQLite
+
 Additional Libraries: Pillow (for images)
 
 # 📸 Screenshots 
