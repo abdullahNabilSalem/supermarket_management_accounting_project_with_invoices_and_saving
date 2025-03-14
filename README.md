@@ -30,5 +30,5 @@ https://github.com/user-attachments/assets/e58d1fa5-c19d-4a45-b1fa-b895025cc1de
 3 - pip install -r requirements.txt
 
 4 - python main.py
-طط
+
 Developer: Abdullah Nabil Salem
