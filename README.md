@@ -24,8 +24,11 @@ https://github.com/user-attachments/assets/e58d1fa5-c19d-4a45-b1fa-b895025cc1de
 # 📥 Install and run
 
 1 - git clone https://github.com/supermarket_management_accounting_project_with_invoices_and_saving.git
+
 2 - cd supermarket_management_accounting_project_with_invoices_and_saving
+
 3 - pip install -r requirements.txt
+
 4 - python main.py
 طط
 Developer: Abdullah Nabil Salem
