@@ -1,3 +1,5 @@
+![Screenshot 2025-02-27 062922](https://github.com/user-attachments/assets/bd01ee75-ee84-402e-af24-45d70549bdc8)
+
 # 🛒 Supermarket Management & Accounting System
 
 # 📖 Overview
